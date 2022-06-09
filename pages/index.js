@@ -12,7 +12,6 @@ const index = ({products,bannerData}) => {
       <h2>Productos destacados</h2>
       <p>Tesoros mas vendidos</p>
     </div>
-
     <div className="products-container">
       {
         products?.map((product)=>
