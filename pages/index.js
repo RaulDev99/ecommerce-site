@@ -2,6 +2,7 @@ import React from 'react'
 import {Product,FooterBanner,HeroBanner} from '../components'
 import { client } from '../lib/client'
 
+
 const index = ({products,bannerData}) => {
   return (
     <>
